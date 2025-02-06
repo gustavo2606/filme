@@ -106,6 +106,39 @@ body{
     width: 150px;
     text-align: center;
     text-transform: uppercase;
-   transform: scale(1.2);
+   
 }
+
+.botao-2:hover{
+    background-color: lime;
+    color: blue;
+    border-color: white;
+}
+
+.linha{
+    display:flex;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.resumo{
+    width: 400px;
+    color: White;
+    font-size: 18px;
+    font-family: arial;
+    line-height: 22px;
+    margin-right: 50px;
+    text-align: justify;
+
+}
+
+.Voltar{
+   color: white;
+   font-weight: bold;
+   align-items: center;
+
+}
+
 
